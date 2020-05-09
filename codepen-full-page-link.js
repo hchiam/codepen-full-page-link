@@ -3,7 +3,7 @@
 function _showRedirectLinkAsNeeded(codePenIdentifier) {
   const thisUrl = document.URL;
   if (thisUrl.indexOf("/full") === -1) {
-    const fullPageURL = "https://codepen.io/hchiam/full/" + "asdf";
+    const fullPageURL = "https://codepen.io/hchiam/full/" + codePenIdentifier;
     let gofullpage = document.getElementById("gofullpage");
     if (!gofullpage) {
       gofullpage = document.createElement("p");

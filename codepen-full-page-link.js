@@ -1,3 +1,5 @@
+// https://cdn.jsdelivr.net/gh/hchiam/codepen-full-page-link@master/codepen-full-page-link.js
+
 function _showRedirectLinkAsNeeded(codePenIdentifier) {
   const thisUrl = document.URL;
   if (thisUrl.indexOf("/full") === -1) {

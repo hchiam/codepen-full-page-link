@@ -1,6 +1,4 @@
-# Codepen full page link
-
-![version](https://img.shields.io/github/release/hchiam/codepen-full-page-link?style=flat-square) [![HitCount](http://hits.dwyl.com/hchiam/codepen-full-page-link.svg)](http://hits.dwyl.com/hchiam/codepen-full-page-link)
+# Codepen full page link ![version](https://img.shields.io/github/release/hchiam/codepen-full-page-link?style=flat-square) [![HitCount](http://hits.dwyl.com/hchiam/codepen-full-page-link.svg)](http://hits.dwyl.com/hchiam/codepen-full-page-link)
 
 ```js
 https://cdn.jsdelivr.net/gh/hchiam/codepen-full-page-link@master/codepen-full-page-link.js

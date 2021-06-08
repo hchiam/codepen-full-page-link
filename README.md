@@ -5,7 +5,7 @@ https://cdn.jsdelivr.net/gh/hchiam/codepen-full-page-link@master/codepen-full-pa
 ```
 
 ```js
-https://cdn.jsdelivr.net/gh/hchiam/codepen-full-page-link@2.0.0/codepen-full-page-link.js
+https://cdn.jsdelivr.net/gh/hchiam/codepen-full-page-link@3.0.0/codepen-full-page-link.js
 ```
 
 ```js

@@ -1,7 +1,7 @@
 # Codepen full page link ![version](https://img.shields.io/github/release/hchiam/codepen-full-page-link?style=flat-square)
 
 ```js
-https://cdn.jsdelivr.net/gh/hchiam/codepen-full-page-link@master/codepen-full-page-link.js
+https://cdn.jsdelivr.net/gh/hchiam/codepen-full-page-link@latest/codepen-full-page-link.js
 ```
 
 ```js
